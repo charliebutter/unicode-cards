@@ -1,0 +1,238 @@
+:root {
+  /* Margins and paddings */
+  --card-margin-mini: 4px;
+  --card-margin-small: 6px;
+  --card-margin-medium: 8px;
+  --card-margin-large: 10px;
+  
+  /* Font sizes */
+  --glyph-font-size-mini: 53px;
+  --glyph-font-size-small: 76px;
+  --glyph-font-size-medium: 108px;
+  --glyph-font-size-large: 140px;
+  
+  --card-name-font-size-mini: 8px;
+  --card-name-font-size-small: 13px;
+  --card-name-font-size-medium: 17px;
+  --card-name-font-size-large: 22px;
+  
+  --footer-font-size-mini: 6px;
+  --footer-font-size-small: 10px;
+  --footer-font-size-medium: 12px;
+  --footer-font-size-large: 16px;
+  
+  /* Background gradient heights */
+  --bg-tint-height-mini: 48px;
+  --bg-tint-height-small: 70px;
+  --bg-tint-height-medium: 100px;
+  --bg-tint-height-large: 130px;
+  
+  /* Card info section heights */
+  --card-info-height-mini: 65px;
+  --card-info-height-small: 91px;
+  --card-info-height-medium: 130px;
+  --card-info-height-large: 169px;
+}
+
+.card-front {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.card-front-margin {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background-color: #f8fafc;
+  overflow: hidden;
+}
+
+/* Apply size-specific margins */
+.card-mini .card-front-margin {
+  margin: var(--card-margin-mini);
+  border-radius: calc(var(--card-border-radius-mini) - 2px);
+}
+
+.card-small .card-front-margin {
+  margin: var(--card-margin-small);
+  border-radius: calc(var(--card-border-radius-small) - 2px);
+}
+
+.card-medium .card-front-margin {
+  margin: var(--card-margin-medium);
+  border-radius: calc(var(--card-border-radius-medium) - 2px);
+}
+
+.card-large .card-front-margin {
+  margin: var(--card-margin-large);
+  border-radius: calc(var(--card-border-radius-large) - 2px);
+}
+
+.card-front-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.glyph-container {
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.glyph {
+  text-align: center;
+  z-index: 1;
+  font-family: 'Noto Sans', 'Arial Unicode MS', 'Lucida Grande', sans-serif;
+  font-weight: normal;
+}
+
+/* Glyph sizes */
+.card-mini .glyph {
+  font-size: var(--glyph-font-size-mini);
+}
+
+.card-small .glyph {
+  font-size: var(--glyph-font-size-small);
+}
+
+.card-medium .glyph {
+  font-size: var(--glyph-font-size-medium);
+}
+
+.card-large .glyph {
+  font-size: var(--glyph-font-size-large);
+}
+
+.bg-tint {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+
+/* Background tint heights */
+.card-mini .bg-tint {
+  height: var(--bg-tint-height-mini);
+}
+
+.card-small .bg-tint {
+  height: var(--bg-tint-height-small);
+}
+
+.card-medium .bg-tint {
+  height: var(--bg-tint-height-medium);
+}
+
+.card-large .bg-tint {
+  height: var(--bg-tint-height-large);
+}
+
+.card-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Card info section heights and padding */
+.card-mini .card-info {
+  height: var(--card-info-height-mini);
+  padding: 5px;
+}
+
+.card-small .card-info {
+  height: var(--card-info-height-small);
+  padding: 7px;
+}
+
+.card-medium .card-info {
+  height: var(--card-info-height-medium);
+  padding: 10px;
+}
+
+.card-large .card-info {
+  height: var(--card-info-height-large);
+  padding: 13px;
+}
+
+.card-name {
+  font-family: 'Noto Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  text-align: center;
+}
+
+/* Card name text sizes */
+.card-mini .card-name {
+  font-size: var(--card-name-font-size-mini);
+}
+
+.card-small .card-name {
+  font-size: var(--card-name-font-size-small);
+}
+
+.card-medium .card-name {
+  font-size: var(--card-name-font-size-medium);
+}
+
+.card-large .card-name {
+  font-size: var(--card-name-font-size-large);
+}
+
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+  font-family: monospace;
+}
+
+/* Footer padding and font sizes */
+.card-mini .card-footer {
+  padding: 0 4px 3px;
+}
+
+.card-mini .unicode-code,
+.card-mini .rarity-text {
+  font-size: var(--footer-font-size-mini);
+}
+
+.card-small .card-footer {
+  padding: 0 6px 4px;
+}
+
+.card-small .unicode-code,
+.card-small .rarity-text {
+  font-size: var(--footer-font-size-small);
+}
+
+.card-medium .card-footer {
+  padding: 0 9px 6px;
+}
+
+.card-medium .unicode-code,
+.card-medium .rarity-text {
+  font-size: var(--footer-font-size-medium);
+}
+
+.card-large .card-footer {
+  padding: 0 12px 8px;
+}
+
+.card-large .unicode-code,
+.card-large .rarity-text {
+  font-size: var(--footer-font-size-large);
+}
+
+.unicode-code {
+  font-family: monospace;
+}
+
+.rarity-text {
+  font-family: monospace;
+  text-align: right;
+}

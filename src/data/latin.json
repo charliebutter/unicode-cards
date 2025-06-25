@@ -1,0 +1,1587 @@
+{
+	"U+0020": {
+		"glyph": " ",
+		"name": "Space",
+		"rarity": "LEGENDARY"
+	},
+	"U+0021": {
+		"glyph": "!",
+		"name": "Exclamation Point",
+		"rarity": "RARE"
+	},
+	"U+0022": {
+		"glyph": "\"",
+		"name": "Quotation Mark",
+		"rarity": "RARE"
+	},
+	"U+0023": {
+		"glyph": "#",
+		"name": "Number Sign",
+		"rarity": "RARE"
+	},
+	"U+0024": {
+		"glyph": "$",
+		"name": "Dollar Sign",
+		"rarity": "RARE"
+	},
+	"U+0025": {
+		"glyph": "%",
+		"name": "Percent Sign",
+		"rarity": "RARE"
+	},
+	"U+0026": {
+		"glyph": "&",
+		"name": "Ampersand",
+		"rarity": "RARE"
+	},
+	"U+0027": {
+		"glyph": "'",
+		"name": "Apostrophe",
+		"rarity": "RARE"
+	},
+	"U+0028": {
+		"glyph": "(",
+		"name": "Left Parenthesis",
+		"rarity": "RARE"
+	},
+	"U+0029": {
+		"glyph": ")",
+		"name": "Right Parenthesis",
+		"rarity": "RARE"
+	},
+	"U+002A": {
+		"glyph": "*",
+		"name": "Asterisk",
+		"rarity": "RARE"
+	},
+	"U+002B": {
+		"glyph": "+",
+		"name": "Plus Sign",
+		"rarity": "RARE"
+	},
+	"U+002C": {
+		"glyph": ",",
+		"name": "Comma",
+		"rarity": "RARE"
+	},
+	"U+002D": {
+		"glyph": "-",
+		"name": "Hyphen",
+		"rarity": "RARE"
+	},
+	"U+002E": {
+		"glyph": ".",
+		"name": "Period",
+		"rarity": "RARE"
+	},
+	"U+002F": {
+		"glyph": "/",
+		"name": "Forward Slash",
+		"rarity": "RARE"
+	},
+	"U+0030": {
+		"glyph": "0",
+		"name": "Digit Zero",
+		"rarity": "COMMON"
+	},
+	"U+0031": {
+		"glyph": "1",
+		"name": "Digit One",
+		"rarity": "COMMON"
+	},
+	"U+0032": {
+		"glyph": "2",
+		"name": "Digit Two",
+		"rarity": "COMMON"
+	},
+	"U+0033": {
+		"glyph": "3",
+		"name": "Digit Three",
+		"rarity": "COMMON"
+	},
+	"U+0034": {
+		"glyph": "4",
+		"name": "Digit Four",
+		"rarity": "COMMON"
+	},
+	"U+0035": {
+		"glyph": "5",
+		"name": "Digit Five",
+		"rarity": "COMMON"
+	},
+	"U+0036": {
+		"glyph": "6",
+		"name": "Digit Six",
+		"rarity": "COMMON"
+	},
+	"U+0037": {
+		"glyph": "7",
+		"name": "Digit Seven",
+		"rarity": "COMMON"
+	},
+	"U+0038": {
+		"glyph": "8",
+		"name": "Digit Eight",
+		"rarity": "COMMON"
+	},
+	"U+0039": {
+		"glyph": "9",
+		"name": "Digit Nine",
+		"rarity": "COMMON"
+	},
+	"U+003A": {
+		"glyph": ":",
+		"name": "Colon",
+		"rarity": "RARE"
+	},
+	"U+003B": {
+		"glyph": ";",
+		"name": "Semicolon",
+		"rarity": "RARE"
+	},
+	"U+003C": {
+		"glyph": "<",
+		"name": "Less-Than Sign",
+		"rarity": "RARE"
+	},
+	"U+003D": {
+		"glyph": "=",
+		"name": "Equals Sign",
+		"rarity": "RARE"
+	},
+	"U+003E": {
+		"glyph": ">",
+		"name": "Greater-Than Sign",
+		"rarity": "RARE"
+	},
+	"U+003F": {
+		"glyph": "?",
+		"name": "Question Mark",
+		"rarity": "RARE"
+	},
+	"U+0040": {
+		"glyph": "@",
+		"name": "At Sign",
+		"rarity": "RARE"
+	},
+	"U+0041": {
+		"glyph": "A",
+		"name": "Capital A",
+		"rarity": "COMMON"
+	},
+	"U+0042": {
+		"glyph": "B",
+		"name": "Capital B",
+		"rarity": "COMMON"
+	},
+	"U+0043": {
+		"glyph": "C",
+		"name": "Capital C",
+		"rarity": "COMMON"
+	},
+	"U+0044": {
+		"glyph": "D",
+		"name": "Capital D",
+		"rarity": "COMMON"
+	},
+	"U+0045": {
+		"glyph": "E",
+		"name": "Capital E",
+		"rarity": "COMMON"
+	},
+	"U+0046": {
+		"glyph": "F",
+		"name": "Capital F",
+		"rarity": "COMMON"
+	},
+	"U+0047": {
+		"glyph": "G",
+		"name": "Capital G",
+		"rarity": "COMMON"
+	},
+	"U+0048": {
+		"glyph": "H",
+		"name": "Capital H",
+		"rarity": "COMMON"
+	},
+	"U+0049": {
+		"glyph": "I",
+		"name": "Capital I",
+		"rarity": "COMMON"
+	},
+	"U+004A": {
+		"glyph": "J",
+		"name": "Capital J",
+		"rarity": "COMMON"
+	},
+	"U+004B": {
+		"glyph": "K",
+		"name": "Capital K",
+		"rarity": "COMMON"
+	},
+	"U+004C": {
+		"glyph": "L",
+		"name": "Capital L",
+		"rarity": "COMMON"
+	},
+	"U+004D": {
+		"glyph": "M",
+		"name": "Capital M",
+		"rarity": "COMMON"
+	},
+	"U+004E": {
+		"glyph": "N",
+		"name": "Capital N",
+		"rarity": "COMMON"
+	},
+	"U+004F": {
+		"glyph": "O",
+		"name": "Capital O",
+		"rarity": "COMMON"
+	},
+	"U+0050": {
+		"glyph": "P",
+		"name": "Capital P",
+		"rarity": "COMMON"
+	},
+	"U+0051": {
+		"glyph": "Q",
+		"name": "Capital Q",
+		"rarity": "COMMON"
+	},
+	"U+0052": {
+		"glyph": "R",
+		"name": "Capital R",
+		"rarity": "COMMON"
+	},
+	"U+0053": {
+		"glyph": "S",
+		"name": "Capital S",
+		"rarity": "COMMON"
+	},
+	"U+0054": {
+		"glyph": "T",
+		"name": "Capital T",
+		"rarity": "COMMON"
+	},
+	"U+0055": {
+		"glyph": "U",
+		"name": "Capital U",
+		"rarity": "COMMON"
+	},
+	"U+0056": {
+		"glyph": "V",
+		"name": "Capital V",
+		"rarity": "COMMON"
+	},
+	"U+0057": {
+		"glyph": "W",
+		"name": "Capital W",
+		"rarity": "COMMON"
+	},
+	"U+0058": {
+		"glyph": "X",
+		"name": "Capital X",
+		"rarity": "COMMON"
+	},
+	"U+0059": {
+		"glyph": "Y",
+		"name": "Capital Y",
+		"rarity": "COMMON"
+	},
+	"U+005A": {
+		"glyph": "Z",
+		"name": "Capital Z",
+		"rarity": "COMMON"
+	},
+	"U+005B": {
+		"glyph": "[",
+		"name": "Left Square Bracket",
+		"rarity": "RARE"
+	},
+	"U+005C": {
+		"glyph": "\\",
+		"name": "Back Slash",
+		"rarity": "RARE"
+	},
+	"U+005D": {
+		"glyph": "]",
+		"name": "Right Square Bracket",
+		"rarity": "RARE"
+	},
+	"U+005E": {
+		"glyph": "^",
+		"name": "Caret",
+		"rarity": "RARE"
+	},
+	"U+005F": {
+		"glyph": "_",
+		"name": "Underscore",
+		"rarity": "RARE"
+	},
+	"U+0060": {
+		"glyph": "`",
+		"name": "Backtick",
+		"rarity": "RARE"
+	},
+	"U+0061": {
+		"glyph": "a",
+		"name": "Lowercase A",
+		"rarity": "COMMON"
+	},
+	"U+0062": {
+		"glyph": "b",
+		"name": "Lowercase B",
+		"rarity": "COMMON"
+	},
+	"U+0063": {
+		"glyph": "c",
+		"name": "Lowercase C",
+		"rarity": "COMMON"
+	},
+	"U+0064": {
+		"glyph": "d",
+		"name": "Lowercase D",
+		"rarity": "COMMON"
+	},
+	"U+0065": {
+		"glyph": "e",
+		"name": "Lowercase E",
+		"rarity": "COMMON"
+	},
+	"U+0066": {
+		"glyph": "f",
+		"name": "Lowercase F",
+		"rarity": "COMMON"
+	},
+	"U+0067": {
+		"glyph": "g",
+		"name": "Lowercase G",
+		"rarity": "COMMON"
+	},
+	"U+0068": {
+		"glyph": "h",
+		"name": "Lowercase H",
+		"rarity": "COMMON"
+	},
+	"U+0069": {
+		"glyph": "i",
+		"name": "Lowercase I",
+		"rarity": "COMMON"
+	},
+	"U+006A": {
+		"glyph": "j",
+		"name": "Lowercase J",
+		"rarity": "COMMON"
+	},
+	"U+006B": {
+		"glyph": "k",
+		"name": "Lowercase K",
+		"rarity": "COMMON"
+	},
+	"U+006C": {
+		"glyph": "l",
+		"name": "Lowercase L",
+		"rarity": "COMMON"
+	},
+	"U+006D": {
+		"glyph": "m",
+		"name": "Lowercase M",
+		"rarity": "COMMON"
+	},
+	"U+006E": {
+		"glyph": "n",
+		"name": "Lowercase N",
+		"rarity": "COMMON"
+	},
+	"U+006F": {
+		"glyph": "o",
+		"name": "Lowercase O",
+		"rarity": "COMMON"
+	},
+	"U+0070": {
+		"glyph": "p",
+		"name": "Lowercase P",
+		"rarity": "COMMON"
+	},
+	"U+0071": {
+		"glyph": "q",
+		"name": "Lowercase Q",
+		"rarity": "COMMON"
+	},
+	"U+0072": {
+		"glyph": "r",
+		"name": "Lowercase R",
+		"rarity": "COMMON"
+	},
+	"U+0073": {
+		"glyph": "s",
+		"name": "Lowercase S",
+		"rarity": "COMMON"
+	},
+	"U+0074": {
+		"glyph": "t",
+		"name": "Lowercase T",
+		"rarity": "COMMON"
+	},
+	"U+0075": {
+		"glyph": "u",
+		"name": "Lowercase U",
+		"rarity": "COMMON"
+	},
+	"U+0076": {
+		"glyph": "v",
+		"name": "Lowercase V",
+		"rarity": "COMMON"
+	},
+	"U+0077": {
+		"glyph": "w",
+		"name": "Lowercase W",
+		"rarity": "COMMON"
+	},
+	"U+0078": {
+		"glyph": "x",
+		"name": "Lowercase X",
+		"rarity": "COMMON"
+	},
+	"U+0079": {
+		"glyph": "y",
+		"name": "Lowercase Y",
+		"rarity": "COMMON"
+	},
+	"U+007A": {
+		"glyph": "z",
+		"name": "Lowercase Z",
+		"rarity": "COMMON"
+	},
+	"U+007B": {
+		"glyph": "{",
+		"name": "Left Curly Bracket",
+		"rarity": "RARE"
+	},
+	"U+007C": {
+		"glyph": "|",
+		"name": "Vertical Line",
+		"rarity": "EPIC"
+	},
+	"U+007D": {
+		"glyph": "}",
+		"name": "Right Curly Bracket",
+		"rarity": "RARE"
+	},
+	"U+007E": {
+		"glyph": "~",
+		"name": "Tilde",
+		"rarity": "RARE"
+	},
+	"U+00A1": {
+		"glyph": "¡",
+		"name": "Inverted Exclamation Point",
+		"rarity": "EPIC"
+	},
+	"U+00A2": {
+		"glyph": "¢",
+		"name": "Cent Sign",
+		"rarity": "RARE"
+	},
+	"U+00A3": {
+		"glyph": "£",
+		"name": "Pound Sign",
+		"rarity": "RARE"
+	},
+	"U+00A4": {
+		"glyph": "¤",
+		"name": "Currency Sign",
+		"rarity": "MYTHIC"
+	},
+	"U+00A5": {
+		"glyph": "¥",
+		"name": "Yen Sign",
+		"rarity": "RARE"
+	},
+	"U+00A6": {
+		"glyph": "¦",
+		"name": "Broken Bar",
+		"rarity": "MYTHIC"
+	},
+	"U+00A7": {
+		"glyph": "§",
+		"name": "Section Sign",
+		"rarity": "EPIC"
+	},
+	"U+00A8": {
+		"glyph": "¨",
+		"name": "Diaeresis",
+		"rarity": "RARE"
+	},
+	"U+00A9": {
+		"glyph": "©",
+		"name": "Copyright Sign",
+		"rarity": "EPIC"
+	},
+	"U+00AA": {
+		"glyph": "ª",
+		"name": "Feminine Ordinal Indicator",
+		"rarity": "RARE"
+	},
+	"U+00AB": {
+		"glyph": "«",
+		"name": "Left Guillemet",
+		"rarity": "RARE"
+	},
+	"U+00AC": {
+		"glyph": "¬",
+		"name": "Not Sign",
+		"rarity": "RARE"
+	},
+	"U+00AE": {
+		"glyph": "®",
+		"name": "Registered Sign",
+		"rarity": "EPIC"
+	},
+	"U+00AF": {
+		"glyph": "¯",
+		"name": "Macron",
+		"rarity": "EPIC"
+	},
+	"U+00B0": {
+		"glyph": "°",
+		"name": "Degree Sign",
+		"rarity": "RARE"
+	},
+	"U+00B1": {
+		"glyph": "±",
+		"name": "Plus-Minus Sign",
+		"rarity": "RARE"
+	},
+	"U+00B2": {
+		"glyph": "²",
+		"name": "Superscript Two",
+		"rarity": "RARE"
+	},
+	"U+00B3": {
+		"glyph": "³",
+		"name": "Superscript Three",
+		"rarity": "RARE"
+	},
+	"U+00B4": {
+		"glyph": "´",
+		"name": "Acute Accent",
+		"rarity": "RARE"
+	},
+	"U+00B5": {
+		"glyph": "µ",
+		"name": "Micro Sign",
+		"rarity": "RARE"
+	},
+	"U+00B6": {
+		"glyph": "¶",
+		"name": "Pilcrow Sign",
+		"rarity": "EPIC"
+	},
+	"U+00B7": {
+		"glyph": "·",
+		"name": "Middle Dot",
+		"rarity": "EPIC"
+	},
+	"U+00B8": {
+		"glyph": "¸",
+		"name": "Cedilla",
+		"rarity": "MYTHIC"
+	},
+	"U+00B9": {
+		"glyph": "¹",
+		"name": "Superscript One",
+		"rarity": "RARE"
+	},
+	"U+00BA": {
+		"glyph": "º",
+		"name": "Masculine Ordinal Indicator",
+		"rarity": "RARE"
+	},
+	"U+00BB": {
+		"glyph": "»",
+		"name": "Right Guillemet",
+		"rarity": "RARE"
+	},
+	"U+00BC": {
+		"glyph": "¼",
+		"name": "Fraction One Quarter",
+		"rarity": "RARE"
+	},
+	"U+00BD": {
+		"glyph": "½",
+		"name": "Fraction One Half",
+		"rarity": "RARE"
+	},
+	"U+00BE": {
+		"glyph": "¾",
+		"name": "Fraction Three Quarters",
+		"rarity": "RARE"
+	},
+	"U+00BF": {
+		"glyph": "¿",
+		"name": "Inverted Question Mark",
+		"rarity": "EPIC"
+	},
+	"U+00C0": {
+		"glyph": "À",
+		"name": "Capital A Grave",
+		"rarity": "COMMON"
+	},
+	"U+00C1": {
+		"glyph": "Á",
+		"name": "Capital A Acute",
+		"rarity": "COMMON"
+	},
+	"U+00C2": {
+		"glyph": "Â",
+		"name": "Capital A Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+00C3": {
+		"glyph": "Ã",
+		"name": "Capital A Tilde",
+		"rarity": "COMMON"
+	},
+	"U+00C4": {
+		"glyph": "Ä",
+		"name": "Capital A Diaeresis",
+		"rarity": "COMMON"
+	},
+	"U+00C5": {
+		"glyph": "Å",
+		"name": "Capital A Ring Above",
+		"rarity": "COMMON"
+	},
+	"U+00C6": {
+		"glyph": "Æ",
+		"name": "Capital Ae",
+		"rarity": "MYTHIC"
+	},
+	"U+00C7": {
+		"glyph": "Ç",
+		"name": "Capital C Cedilla",
+		"rarity": "COMMON"
+	},
+	"U+00C8": {
+		"glyph": "È",
+		"name": "Capital E Grave",
+		"rarity": "COMMON"
+	},
+	"U+00C9": {
+		"glyph": "É",
+		"name": "Capital E Acute",
+		"rarity": "COMMON"
+	},
+	"U+00CA": {
+		"glyph": "Ê",
+		"name": "Capital E Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+00CB": {
+		"glyph": "Ë",
+		"name": "Capital E Diaeresis",
+		"rarity": "COMMON"
+	},
+	"U+00CC": {
+		"glyph": "Ì",
+		"name": "Capital I Grave",
+		"rarity": "COMMON"
+	},
+	"U+00CD": {
+		"glyph": "Í",
+		"name": "Capital I Acute",
+		"rarity": "COMMON"
+	},
+	"U+00CE": {
+		"glyph": "Î",
+		"name": "Capital I Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+00CF": {
+		"glyph": "Ï",
+		"name": "Capital I Diaeresis",
+		"rarity": "COMMON"
+	},
+	"U+00D0": {
+		"glyph": "Ð",
+		"name": "Capital Eth",
+		"rarity": "RARE"
+	},
+	"U+00D1": {
+		"glyph": "Ñ",
+		"name": "Capital N Tilde",
+		"rarity": "COMMON"
+	},
+	"U+00D2": {
+		"glyph": "Ò",
+		"name": "Capital O Grave",
+		"rarity": "COMMON"
+	},
+	"U+00D3": {
+		"glyph": "Ó",
+		"name": "Capital O Acute",
+		"rarity": "COMMON"
+	},
+	"U+00D4": {
+		"glyph": "Ô",
+		"name": "Capital O Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+00D5": {
+		"glyph": "Õ",
+		"name": "Capital O Tilde",
+		"rarity": "COMMON"
+	},
+	"U+00D6": {
+		"glyph": "Ö",
+		"name": "Capital O Diaeresis",
+		"rarity": "COMMON"
+	},
+	"U+00D7": {
+		"glyph": "×",
+		"name": "Multiplication Sign",
+		"rarity": "RARE"
+	},
+	"U+00D8": {
+		"glyph": "Ø",
+		"name": "Capital O Stroke",
+		"rarity": "EPIC"
+	},
+	"U+00D9": {
+		"glyph": "Ù",
+		"name": "Capital U Grave",
+		"rarity": "COMMON"
+	},
+	"U+00DA": {
+		"glyph": "Ú",
+		"name": "Capital U Acute",
+		"rarity": "COMMON"
+	},
+	"U+00DB": {
+		"glyph": "Û",
+		"name": "Capital U Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+00DC": {
+		"glyph": "Ü",
+		"name": "Capital U Diaeresis",
+		"rarity": "COMMON"
+	},
+	"U+00DD": {
+		"glyph": "Ý",
+		"name": "Capital Y Acute",
+		"rarity": "COMMON"
+	},
+	"U+00DE": {
+		"glyph": "Þ",
+		"name": "Capital Thorn",
+		"rarity": "MYTHIC"
+	},
+	"U+00DF": {
+		"glyph": "ß",
+		"name": "Small Sharp S",
+		"rarity": "MYTHIC"
+	},
+	"U+00E0": {
+		"glyph": "à",
+		"name": "Small A Grave",
+		"rarity": "COMMON"
+	},
+	"U+00E1": {
+		"glyph": "á",
+		"name": "Small A Acute",
+		"rarity": "COMMON"
+	},
+	"U+00E2": {
+		"glyph": "â",
+		"name": "Small A Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+00E3": {
+		"glyph": "ã",
+		"name": "Small A Tilde",
+		"rarity": "COMMON"
+	},
+	"U+00E4": {
+		"glyph": "ä",
+		"name": "Small A Diaeresis",
+		"rarity": "COMMON"
+	},
+	"U+00E5": {
+		"glyph": "å",
+		"name": "Small A Ring Above",
+		"rarity": "COMMON"
+	},
+	"U+00E6": {
+		"glyph": "æ",
+		"name": "Small Ae",
+		"rarity": "EPIC"
+	},
+	"U+00E7": {
+		"glyph": "ç",
+		"name": "Small C Cedilla",
+		"rarity": "COMMON"
+	},
+	"U+00E8": {
+		"glyph": "è",
+		"name": "Small E Grave",
+		"rarity": "COMMON"
+	},
+	"U+00E9": {
+		"glyph": "é",
+		"name": "Small E Acute",
+		"rarity": "COMMON"
+	},
+	"U+00EA": {
+		"glyph": "ê",
+		"name": "Small E Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+00EB": {
+		"glyph": "ë",
+		"name": "Small E Diaeresis",
+		"rarity": "COMMON"
+	},
+	"U+00EC": {
+		"glyph": "ì",
+		"name": "Small I Grave",
+		"rarity": "COMMON"
+	},
+	"U+00ED": {
+		"glyph": "í",
+		"name": "Small I Acute",
+		"rarity": "COMMON"
+	},
+	"U+00EE": {
+		"glyph": "î",
+		"name": "Small I Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+00EF": {
+		"glyph": "ï",
+		"name": "Small I Diaeresis",
+		"rarity": "COMMON"
+	},
+	"U+00F0": {
+		"glyph": "ð",
+		"name": "Small Eth",
+		"rarity": "RARE"
+	},
+	"U+00F1": {
+		"glyph": "ñ",
+		"name": "Small N Tilde",
+		"rarity": "COMMON"
+	},
+	"U+00F2": {
+		"glyph": "ò",
+		"name": "Small O Grave",
+		"rarity": "COMMON"
+	},
+	"U+00F3": {
+		"glyph": "ó",
+		"name": "Small O Acute",
+		"rarity": "COMMON"
+	},
+	"U+00F4": {
+		"glyph": "ô",
+		"name": "Small O Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+00F5": {
+		"glyph": "õ",
+		"name": "Small O Tilde",
+		"rarity": "COMMON"
+	},
+	"U+00F6": {
+		"glyph": "ö",
+		"name": "Small O Diaeresis",
+		"rarity": "COMMON"
+	},
+	"U+00F7": {
+		"glyph": "÷",
+		"name": "Division Sign",
+		"rarity": "RARE"
+	},
+	"U+00F8": {
+		"glyph": "ø",
+		"name": "Small O Stroke",
+		"rarity": "RARE"
+	},
+	"U+00F9": {
+		"glyph": "ù",
+		"name": "Small U Grave",
+		"rarity": "COMMON"
+	},
+	"U+00FA": {
+		"glyph": "ú",
+		"name": "Small U Acute",
+		"rarity": "COMMON"
+	},
+	"U+00FB": {
+		"glyph": "û",
+		"name": "Small U Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+00FC": {
+		"glyph": "ü",
+		"name": "Small U Diaeresis",
+		"rarity": "COMMON"
+	},
+	"U+00FD": {
+		"glyph": "ý",
+		"name": "Small Y Acute",
+		"rarity": "COMMON"
+	},
+	"U+00FE": {
+		"glyph": "þ",
+		"name": "Small Thorn",
+		"rarity": "EPIC"
+	},
+	"U+00FF": {
+		"glyph": "ÿ",
+		"name": "Small Y Diaeresis",
+		"rarity": "COMMON"
+	},
+	"U+0100": {
+		"glyph": "Ā",
+		"name": "Capital A Macron",
+		"rarity": "COMMON"
+	},
+	"U+0101": {
+		"glyph": "ā",
+		"name": "Small A Macron",
+		"rarity": "COMMON"
+	},
+	"U+0102": {
+		"glyph": "Ă",
+		"name": "Capital A Breve",
+		"rarity": "COMMON"
+	},
+	"U+0103": {
+		"glyph": "ă",
+		"name": "Small A Breve",
+		"rarity": "COMMON"
+	},
+	"U+0104": {
+		"glyph": "Ą",
+		"name": "Capital A Ogonek",
+		"rarity": "COMMON"
+	},
+	"U+0105": {
+		"glyph": "ą",
+		"name": "Small A Ogonek",
+		"rarity": "COMMON"
+	},
+	"U+0106": {
+		"glyph": "Ć",
+		"name": "Capital C Acute",
+		"rarity": "COMMON"
+	},
+	"U+0107": {
+		"glyph": "ć",
+		"name": "Small C Acute",
+		"rarity": "COMMON"
+	},
+	"U+0108": {
+		"glyph": "Ĉ",
+		"name": "Capital C Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+0109": {
+		"glyph": "ĉ",
+		"name": "Small C Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+010A": {
+		"glyph": "Ċ",
+		"name": "Capital C Dot Above",
+		"rarity": "COMMON"
+	},
+	"U+010B": {
+		"glyph": "ċ",
+		"name": "Small C Dot Above",
+		"rarity": "COMMON"
+	},
+	"U+010C": {
+		"glyph": "Č",
+		"name": "Capital C Caron",
+		"rarity": "COMMON"
+	},
+	"U+010D": {
+		"glyph": "č",
+		"name": "Small C Caron",
+		"rarity": "COMMON"
+	},
+	"U+010E": {
+		"glyph": "Ď",
+		"name": "Capital D Caron",
+		"rarity": "COMMON"
+	},
+	"U+010F": {
+		"glyph": "ď",
+		"name": "Small D Caron",
+		"rarity": "COMMON"
+	},
+	"U+0110": {
+		"glyph": "Đ",
+		"name": "Capital D Stroke",
+		"rarity": "EPIC"
+	},
+	"U+0111": {
+		"glyph": "đ",
+		"name": "Small D Stroke",
+		"rarity": "RARE"
+	},
+	"U+0112": {
+		"glyph": "Ē",
+		"name": "Capital E Macron",
+		"rarity": "COMMON"
+	},
+	"U+0113": {
+		"glyph": "ē",
+		"name": "Small E Macron",
+		"rarity": "COMMON"
+	},
+	"U+0114": {
+		"glyph": "Ĕ",
+		"name": "Capital E Breve",
+		"rarity": "COMMON"
+	},
+	"U+0115": {
+		"glyph": "ĕ",
+		"name": "Small E Breve",
+		"rarity": "COMMON"
+	},
+	"U+0116": {
+		"glyph": "Ė",
+		"name": "Capital E Dot Above",
+		"rarity": "COMMON"
+	},
+	"U+0117": {
+		"glyph": "ė",
+		"name": "Small E Dot Above",
+		"rarity": "COMMON"
+	},
+	"U+0118": {
+		"glyph": "Ę",
+		"name": "Capital E Ogonek",
+		"rarity": "COMMON"
+	},
+	"U+0119": {
+		"glyph": "ę",
+		"name": "Small E Ogonek",
+		"rarity": "COMMON"
+	},
+	"U+011A": {
+		"glyph": "Ě",
+		"name": "Capital E Caron",
+		"rarity": "COMMON"
+	},
+	"U+011B": {
+		"glyph": "ě",
+		"name": "Small E Caron",
+		"rarity": "COMMON"
+	},
+	"U+011C": {
+		"glyph": "Ĝ",
+		"name": "Capital G Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+011D": {
+		"glyph": "ĝ",
+		"name": "Small G Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+011E": {
+		"glyph": "Ğ",
+		"name": "Capital G Breve",
+		"rarity": "COMMON"
+	},
+	"U+011F": {
+		"glyph": "ğ",
+		"name": "Small G Breve",
+		"rarity": "COMMON"
+	},
+	"U+0120": {
+		"glyph": "Ġ",
+		"name": "Capital G Dot Above",
+		"rarity": "COMMON"
+	},
+	"U+0121": {
+		"glyph": "ġ",
+		"name": "Small G Dot Above",
+		"rarity": "COMMON"
+	},
+	"U+0122": {
+		"glyph": "Ģ",
+		"name": "Capital G Cedilla",
+		"rarity": "COMMON"
+	},
+	"U+0123": {
+		"glyph": "ģ",
+		"name": "Small G Cedilla",
+		"rarity": "COMMON"
+	},
+	"U+0124": {
+		"glyph": "Ĥ",
+		"name": "Capital H Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+0125": {
+		"glyph": "ĥ",
+		"name": "Small H Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+0126": {
+		"glyph": "Ħ",
+		"name": "Capital H Stroke",
+		"rarity": "MYTHIC"
+	},
+	"U+0127": {
+		"glyph": "ħ",
+		"name": "Small H Stroke",
+		"rarity": "RARE"
+	},
+	"U+0128": {
+		"glyph": "Ĩ",
+		"name": "Capital I Tilde",
+		"rarity": "COMMON"
+	},
+	"U+0129": {
+		"glyph": "ĩ",
+		"name": "Small I Tilde",
+		"rarity": "COMMON"
+	},
+	"U+012A": {
+		"glyph": "Ī",
+		"name": "Capital I Macron",
+		"rarity": "COMMON"
+	},
+	"U+012B": {
+		"glyph": "ī",
+		"name": "Small I Macron",
+		"rarity": "COMMON"
+	},
+	"U+012C": {
+		"glyph": "Ĭ",
+		"name": "Capital I Breve",
+		"rarity": "COMMON"
+	},
+	"U+012D": {
+		"glyph": "ĭ",
+		"name": "Small I Breve",
+		"rarity": "COMMON"
+	},
+	"U+012E": {
+		"glyph": "Į",
+		"name": "Capital I Ogonek",
+		"rarity": "COMMON"
+	},
+	"U+012F": {
+		"glyph": "į",
+		"name": "Small I Ogonek",
+		"rarity": "COMMON"
+	},
+	"U+0130": {
+		"glyph": "İ",
+		"name": "Capital I Dot Above",
+		"rarity": "COMMON"
+	},
+	"U+0131": {
+		"glyph": "ı",
+		"name": "Small Dotless I",
+		"rarity": "MYTHIC"
+	},
+	"U+0132": {
+		"glyph": "Ĳ",
+		"name": "Capital Ligature Ij",
+		"rarity": "MYTHIC"
+	},
+	"U+0133": {
+		"glyph": "ĳ",
+		"name": "Small Ligature Ij",
+		"rarity": "EPIC"
+	},
+	"U+0134": {
+		"glyph": "Ĵ",
+		"name": "Capital J Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+0135": {
+		"glyph": "ĵ",
+		"name": "Small J Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+0136": {
+		"glyph": "Ķ",
+		"name": "Capital K Cedilla",
+		"rarity": "COMMON"
+	},
+	"U+0137": {
+		"glyph": "ķ",
+		"name": "Small K Cedilla",
+		"rarity": "COMMON"
+	},
+	"U+0138": {
+		"glyph": "ĸ",
+		"name": "Small Kra",
+		"rarity": "MYTHIC"
+	},
+	"U+0139": {
+		"glyph": "Ĺ",
+		"name": "Capital L Acute",
+		"rarity": "COMMON"
+	},
+	"U+013A": {
+		"glyph": "ĺ",
+		"name": "Small L Acute",
+		"rarity": "COMMON"
+	},
+	"U+013B": {
+		"glyph": "Ļ",
+		"name": "Capital L Cedilla",
+		"rarity": "COMMON"
+	},
+	"U+013C": {
+		"glyph": "ļ",
+		"name": "Small L Cedilla",
+		"rarity": "COMMON"
+	},
+	"U+013D": {
+		"glyph": "Ľ",
+		"name": "Capital L Caron",
+		"rarity": "COMMON"
+	},
+	"U+013E": {
+		"glyph": "ľ",
+		"name": "Small L Caron",
+		"rarity": "COMMON"
+	},
+	"U+013F": {
+		"glyph": "Ŀ",
+		"name": "Capital L Middle Dot",
+		"rarity": "EPIC"
+	},
+	"U+0140": {
+		"glyph": "ŀ",
+		"name": "Small L Middle Dot",
+		"rarity": "RARE"
+	},
+	"U+0141": {
+		"glyph": "Ł",
+		"name": "Capital L Stroke",
+		"rarity": "EPIC"
+	},
+	"U+0142": {
+		"glyph": "ł",
+		"name": "Small L Stroke",
+		"rarity": "RARE"
+	},
+	"U+0143": {
+		"glyph": "Ń",
+		"name": "Capital N Acute",
+		"rarity": "COMMON"
+	},
+	"U+0144": {
+		"glyph": "ń",
+		"name": "Small N Acute",
+		"rarity": "COMMON"
+	},
+	"U+0145": {
+		"glyph": "Ņ",
+		"name": "Capital N Cedilla",
+		"rarity": "COMMON"
+	},
+	"U+0146": {
+		"glyph": "ņ",
+		"name": "Small N Cedilla",
+		"rarity": "COMMON"
+	},
+	"U+0147": {
+		"glyph": "Ň",
+		"name": "Capital N Caron",
+		"rarity": "COMMON"
+	},
+	"U+0148": {
+		"glyph": "ň",
+		"name": "Small N Caron",
+		"rarity": "COMMON"
+	},
+	"U+0149": {
+		"glyph": "ŉ",
+		"name": "Small N Apostrophe",
+		"rarity": "RARE"
+	},
+	"U+014A": {
+		"glyph": "Ŋ",
+		"name": "Capital Eng",
+		"rarity": "EPIC"
+	},
+	"U+014B": {
+		"glyph": "ŋ",
+		"name": "Small Eng",
+		"rarity": "RARE"
+	},
+	"U+014C": {
+		"glyph": "Ō",
+		"name": "Capital O Macron",
+		"rarity": "COMMON"
+	},
+	"U+014D": {
+		"glyph": "ō",
+		"name": "Small O Macron",
+		"rarity": "COMMON"
+	},
+	"U+014E": {
+		"glyph": "Ŏ",
+		"name": "Capital O Breve",
+		"rarity": "COMMON"
+	},
+	"U+014F": {
+		"glyph": "ŏ",
+		"name": "Small O Breve",
+		"rarity": "COMMON"
+	},
+	"U+0150": {
+		"glyph": "Ő",
+		"name": "Capital O Double Acute",
+		"rarity": "COMMON"
+	},
+	"U+0151": {
+		"glyph": "ő",
+		"name": "Small O Double Acute",
+		"rarity": "COMMON"
+	},
+	"U+0152": {
+		"glyph": "Œ",
+		"name": "Capital Ligature Oe",
+		"rarity": "MYTHIC"
+	},
+	"U+0153": {
+		"glyph": "œ",
+		"name": "Small Ligature Oe",
+		"rarity": "EPIC"
+	},
+	"U+0154": {
+		"glyph": "Ŕ",
+		"name": "Capital R Acute",
+		"rarity": "COMMON"
+	},
+	"U+0155": {
+		"glyph": "ŕ",
+		"name": "Small R Acute",
+		"rarity": "COMMON"
+	},
+	"U+0156": {
+		"glyph": "Ŗ",
+		"name": "Capital R Cedilla",
+		"rarity": "COMMON"
+	},
+	"U+0157": {
+		"glyph": "ŗ",
+		"name": "Small R Cedilla",
+		"rarity": "COMMON"
+	},
+	"U+0158": {
+		"glyph": "Ř",
+		"name": "Capital R Caron",
+		"rarity": "COMMON"
+	},
+	"U+0159": {
+		"glyph": "ř",
+		"name": "Small R Caron",
+		"rarity": "COMMON"
+	},
+	"U+015A": {
+		"glyph": "Ś",
+		"name": "Capital S Acute",
+		"rarity": "COMMON"
+	},
+	"U+015B": {
+		"glyph": "ś",
+		"name": "Small S Acute",
+		"rarity": "COMMON"
+	},
+	"U+015C": {
+		"glyph": "Ŝ",
+		"name": "Capital S Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+015D": {
+		"glyph": "ŝ",
+		"name": "Small S Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+015E": {
+		"glyph": "Ş",
+		"name": "Capital S Cedilla",
+		"rarity": "COMMON"
+	},
+	"U+015F": {
+		"glyph": "ş",
+		"name": "Small S Cedilla",
+		"rarity": "COMMON"
+	},
+	"U+0160": {
+		"glyph": "Š",
+		"name": "Capital S Caron",
+		"rarity": "COMMON"
+	},
+	"U+0161": {
+		"glyph": "š",
+		"name": "Small S Caron",
+		"rarity": "COMMON"
+	},
+	"U+0162": {
+		"glyph": "Ţ",
+		"name": "Capital T Cedilla",
+		"rarity": "COMMON"
+	},
+	"U+0163": {
+		"glyph": "ţ",
+		"name": "Small T Cedilla",
+		"rarity": "COMMON"
+	},
+	"U+0164": {
+		"glyph": "Ť",
+		"name": "Capital T Caron",
+		"rarity": "COMMON"
+	},
+	"U+0165": {
+		"glyph": "ť",
+		"name": "Small T Caron",
+		"rarity": "COMMON"
+	},
+	"U+0166": {
+		"glyph": "Ŧ",
+		"name": "Capital T Stroke",
+		"rarity": "EPIC"
+	},
+	"U+0167": {
+		"glyph": "ŧ",
+		"name": "Small T Stroke",
+		"rarity": "RARE"
+	},
+	"U+0168": {
+		"glyph": "Ũ",
+		"name": "Capital U Tilde",
+		"rarity": "COMMON"
+	},
+	"U+0169": {
+		"glyph": "ũ",
+		"name": "Small U Tilde",
+		"rarity": "COMMON"
+	},
+	"U+016A": {
+		"glyph": "Ū",
+		"name": "Capital U Macron",
+		"rarity": "COMMON"
+	},
+	"U+016B": {
+		"glyph": "ū",
+		"name": "Small U Macron",
+		"rarity": "COMMON"
+	},
+	"U+016C": {
+		"glyph": "Ŭ",
+		"name": "Capital U Breve",
+		"rarity": "COMMON"
+	},
+	"U+016D": {
+		"glyph": "ŭ",
+		"name": "Small U Breve",
+		"rarity": "COMMON"
+	},
+	"U+016E": {
+		"glyph": "Ů",
+		"name": "Capital U Ring Above",
+		"rarity": "COMMON"
+	},
+	"U+016F": {
+		"glyph": "ů",
+		"name": "Small U Ring Above",
+		"rarity": "COMMON"
+	},
+	"U+0170": {
+		"glyph": "Ű",
+		"name": "Capital U Double Acute",
+		"rarity": "COMMON"
+	},
+	"U+0171": {
+		"glyph": "ű",
+		"name": "Small U Double Acute",
+		"rarity": "COMMON"
+	},
+	"U+0172": {
+		"glyph": "Ų",
+		"name": "Capital U Ogonek",
+		"rarity": "COMMON"
+	},
+	"U+0173": {
+		"glyph": "ų",
+		"name": "Small U Ogonek",
+		"rarity": "COMMON"
+	},
+	"U+0174": {
+		"glyph": "Ŵ",
+		"name": "Capital W Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+0175": {
+		"glyph": "ŵ",
+		"name": "Small W Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+0176": {
+		"glyph": "Ŷ",
+		"name": "Capital Y Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+0177": {
+		"glyph": "ŷ",
+		"name": "Small Y Circumflex",
+		"rarity": "COMMON"
+	},
+	"U+0178": {
+		"glyph": "Ÿ",
+		"name": "Capital Y Diaeresis",
+		"rarity": "COMMON"
+	},
+	"U+0179": {
+		"glyph": "Ź",
+		"name": "Capital Z Acute",
+		"rarity": "COMMON"
+	},
+	"U+017A": {
+		"glyph": "ź",
+		"name": "Small Z Acute",
+		"rarity": "COMMON"
+	},
+	"U+017B": {
+		"glyph": "Ż",
+		"name": "Capital Z Dot Above",
+		"rarity": "COMMON"
+	},
+	"U+017C": {
+		"glyph": "ż",
+		"name": "Small Z Dot Above",
+		"rarity": "COMMON"
+	},
+	"U+017D": {
+		"glyph": "Ž",
+		"name": "Capital Z Caron",
+		"rarity": "COMMON"
+	},
+	"U+017E": {
+		"glyph": "ž",
+		"name": "Small Z Caron",
+		"rarity": "COMMON"
+	},
+	"U+017F": {
+		"glyph": "ſ",
+		"name": "Small Long S",
+		"rarity": "LEGENDARY"
+	}
+}

@@ -1,0 +1,1607 @@
+{
+    "U+0370": {
+        "glyph": "Ͱ",
+        "name": "Coptic Capital Heta",
+        "rarity": "COMMON"
+    },
+    "U+0371": {
+        "glyph": "ͱ",
+        "name": "Coptic Small Heta",
+        "rarity": "COMMON"
+    },
+    "U+0372": {
+        "glyph": "Ͳ",
+        "name": "Coptic Capital Archaic Heta",
+        "rarity": "COMMON"
+    },
+    "U+0373": {
+        "glyph": "ͳ",
+        "name": "Coptic Small Archaic Heta",
+        "rarity": "COMMON"
+    },
+    "U+0374": {
+        "glyph": "ʹ",
+        "name": "Numeral Sign",
+        "rarity": "EPIC"
+    },
+    "U+0375": {
+        "glyph": "͵",
+        "name": "Lower Numeral Sign",
+        "rarity": "EPIC"
+    },
+    "U+0376": {
+        "glyph": "Ͷ",
+        "name": "Capital Pamphylian Digamma",
+        "rarity": "RARE"
+    },
+    "U+0377": {
+        "glyph": "ͷ",
+        "name": "Small Pamphylian Digamma",
+        "rarity": "RARE"
+    },
+    "U+037A": {
+        "glyph": "ͺ",
+        "name": "Ypogegrammeni",
+        "rarity": "EPIC"
+    },
+    "U+037B": {
+        "glyph": "ͻ",
+        "name": "Small Reversed Lunate Sigma",
+        "rarity": "RARE"
+    },
+    "U+037C": {
+        "glyph": "ͼ",
+        "name": "Small Dotted Lunate Sigma",
+        "rarity": "RARE"
+    },
+    "U+037D": {
+        "glyph": "ͽ",
+        "name": "Small Reversed Dotted Lunate Sigma",
+        "rarity": "RARE"
+    },
+    "U+037F": {
+        "glyph": "Ϳ",
+        "name": "Capital Yot",
+        "rarity": "RARE"
+    },
+    "U+0384": {
+        "glyph": "΄",
+        "name": "Tonos",
+        "rarity": "EPIC"
+    },
+    "U+0385": {
+        "glyph": "΅",
+        "name": "Dialytika Tonos",
+        "rarity": "EPIC"
+    },
+    "U+0386": {
+        "glyph": "Ά",
+        "name": "Capital Alpha Tonos",
+        "rarity": "COMMON"
+    },
+    "U+0387": {
+        "glyph": "·",
+        "name": "Ano Teleia",
+        "rarity": "EPIC"
+    },
+    "U+0388": {
+        "glyph": "Έ",
+        "name": "Capital Epsilon Tonos",
+        "rarity": "COMMON"
+    },
+    "U+0389": {
+        "glyph": "Ή",
+        "name": "Capital Eta Tonos",
+        "rarity": "COMMON"
+    },
+    "U+038A": {
+        "glyph": "Ί",
+        "name": "Capital Iota Tonos",
+        "rarity": "COMMON"
+    },
+    "U+038C": {
+        "glyph": "Ό",
+        "name": "Capital Omicron Tonos",
+        "rarity": "COMMON"
+    },
+    "U+038E": {
+        "glyph": "Ύ",
+        "name": "Capital Upsilon Tonos",
+        "rarity": "COMMON"
+    },
+    "U+038F": {
+        "glyph": "Ώ",
+        "name": "Capital Omega Tonos",
+        "rarity": "COMMON"
+    },
+    "U+0390": {
+        "glyph": "ΐ",
+        "name": "Small Iota Dialytika Tonos",
+        "rarity": "COMMON"
+    },
+    "U+0391": {
+        "glyph": "Α",
+        "name": "Capital Alpha",
+        "rarity": "COMMON"
+    },
+    "U+0392": {
+        "glyph": "Β",
+        "name": "Capital Beta",
+        "rarity": "COMMON"
+    },
+    "U+0393": {
+        "glyph": "Γ",
+        "name": "Capital Gamma",
+        "rarity": "COMMON"
+    },
+    "U+0394": {
+        "glyph": "Δ",
+        "name": "Capital Delta",
+        "rarity": "COMMON"
+    },
+    "U+0395": {
+        "glyph": "Ε",
+        "name": "Capital Epsilon",
+        "rarity": "COMMON"
+    },
+    "U+0396": {
+        "glyph": "Ζ",
+        "name": "Capital Zeta",
+        "rarity": "COMMON"
+    },
+    "U+0397": {
+        "glyph": "Η",
+        "name": "Capital Eta",
+        "rarity": "COMMON"
+    },
+    "U+0398": {
+        "glyph": "Θ",
+        "name": "Capital Theta",
+        "rarity": "COMMON"
+    },
+    "U+0399": {
+        "glyph": "Ι",
+        "name": "Capital Iota",
+        "rarity": "COMMON"
+    },
+    "U+039A": {
+        "glyph": "Κ",
+        "name": "Capital Kappa",
+        "rarity": "COMMON"
+    },
+    "U+039B": {
+        "glyph": "Λ",
+        "name": "Capital Lambda",
+        "rarity": "COMMON"
+    },
+    "U+039C": {
+        "glyph": "Μ",
+        "name": "Capital Mu",
+        "rarity": "COMMON"
+    },
+    "U+039D": {
+        "glyph": "Ν",
+        "name": "Capital Nu",
+        "rarity": "COMMON"
+    },
+    "U+039E": {
+        "glyph": "Ξ",
+        "name": "Capital Xi",
+        "rarity": "LEGENDARY"
+    },
+    "U+039F": {
+        "glyph": "Ο",
+        "name": "Capital Omicron",
+        "rarity": "COMMON"
+    },
+    "U+03A0": {
+        "glyph": "Π",
+        "name": "Capital Pi",
+        "rarity": "COMMON"
+    },
+    "U+03A1": {
+        "glyph": "Ρ",
+        "name": "Capital Rho",
+        "rarity": "COMMON"
+    },
+    "U+03A3": {
+        "glyph": "Σ",
+        "name": "Capital Sigma",
+        "rarity": "LEGENDARY"
+    },
+    "U+03A4": {
+        "glyph": "Τ",
+        "name": "Capital Tau",
+        "rarity": "COMMON"
+    },
+    "U+03A5": {
+        "glyph": "Υ",
+        "name": "Capital Upsilon",
+        "rarity": "COMMON"
+    },
+    "U+03A6": {
+        "glyph": "Φ",
+        "name": "Capital Phi",
+        "rarity": "COMMON"
+    },
+    "U+03A7": {
+        "glyph": "Χ",
+        "name": "Capital Chi",
+        "rarity": "COMMON"
+    },
+    "U+03A8": {
+        "glyph": "Ψ",
+        "name": "Capital Psi",
+        "rarity": "COMMON"
+    },
+    "U+03A9": {
+        "glyph": "Ω",
+        "name": "Capital Omega",
+        "rarity": "COMMON"
+    },
+    "U+03AA": {
+        "glyph": "Ϊ",
+        "name": "Capital Iota Dialytika",
+        "rarity": "COMMON"
+    },
+    "U+03AB": {
+        "glyph": "Ϋ",
+        "name": "Capital Upsilon Dialytika",
+        "rarity": "COMMON"
+    },
+    "U+03AC": {
+        "glyph": "ά",
+        "name": "Small Alpha Tonos",
+        "rarity": "COMMON"
+    },
+    "U+03AD": {
+        "glyph": "έ",
+        "name": "Small Epsilon Tonos",
+        "rarity": "COMMON"
+    },
+    "U+03AE": {
+        "glyph": "ή",
+        "name": "Small Eta Tonos",
+        "rarity": "COMMON"
+    },
+    "U+03AF": {
+        "glyph": "ί",
+        "name": "Small Iota Tonos",
+        "rarity": "COMMON"
+    },
+    "U+03B0": {
+        "glyph": "ΰ",
+        "name": "Small Upsilon Dialytika Tonos",
+        "rarity": "COMMON"
+    },
+    "U+03B1": {
+        "glyph": "α",
+        "name": "Small Alpha",
+        "rarity": "COMMON"
+    },
+    "U+03B2": {
+        "glyph": "β",
+        "name": "Small Beta",
+        "rarity": "COMMON"
+    },
+    "U+03B3": {
+        "glyph": "γ",
+        "name": "Small Gamma",
+        "rarity": "COMMON"
+    },
+    "U+03B4": {
+        "glyph": "δ",
+        "name": "Small Delta",
+        "rarity": "COMMON"
+    },
+    "U+03B5": {
+        "glyph": "ε",
+        "name": "Small Epsilon",
+        "rarity": "COMMON"
+    },
+    "U+03B6": {
+        "glyph": "ζ",
+        "name": "Small Zeta",
+        "rarity": "COMMON"
+    },
+    "U+03B7": {
+        "glyph": "η",
+        "name": "Small Eta",
+        "rarity": "COMMON"
+    },
+    "U+03B8": {
+        "glyph": "θ",
+        "name": "Small Theta",
+        "rarity": "COMMON"
+    },
+    "U+03B9": {
+        "glyph": "ι",
+        "name": "Small Iota",
+        "rarity": "COMMON"
+    },
+    "U+03BA": {
+        "glyph": "κ",
+        "name": "Small Kappa",
+        "rarity": "COMMON"
+    },
+    "U+03BB": {
+        "glyph": "λ",
+        "name": "Small Lambda",
+        "rarity": "COMMON"
+    },
+    "U+03BC": {
+        "glyph": "μ",
+        "name": "Small Mu",
+        "rarity": "COMMON"
+    },
+    "U+03BD": {
+        "glyph": "ν",
+        "name": "Small Nu",
+        "rarity": "COMMON"
+    },
+    "U+03BE": {
+        "glyph": "ξ",
+        "name": "Small Xi",
+        "rarity": "COMMON"
+    },
+    "U+03BF": {
+        "glyph": "ο",
+        "name": "Small Omicron",
+        "rarity": "COMMON"
+    },
+    "U+03C0": {
+        "glyph": "π",
+        "name": "Small Pi",
+        "rarity": "COMMON"
+    },
+    "U+03C1": {
+        "glyph": "ρ",
+        "name": "Small Rho",
+        "rarity": "COMMON"
+    },
+    "U+03C2": {
+        "glyph": "ς",
+        "name": "Small Final Sigma",
+        "rarity": "COMMON"
+    },
+    "U+03C3": {
+        "glyph": "σ",
+        "name": "Small Sigma",
+        "rarity": "COMMON"
+    },
+    "U+03C4": {
+        "glyph": "τ",
+        "name": "Small Tau",
+        "rarity": "COMMON"
+    },
+    "U+03C5": {
+        "glyph": "υ",
+        "name": "Small Upsilon",
+        "rarity": "COMMON"
+    },
+    "U+03C6": {
+        "glyph": "φ",
+        "name": "Small Phi",
+        "rarity": "COMMON"
+    },
+    "U+03C7": {
+        "glyph": "χ",
+        "name": "Small Chi",
+        "rarity": "COMMON"
+    },
+    "U+03C8": {
+        "glyph": "ψ",
+        "name": "Small Psi",
+        "rarity": "COMMON"
+    },
+    "U+03C9": {
+        "glyph": "ω",
+        "name": "Small Omega",
+        "rarity": "COMMON"
+    },
+    "U+03CA": {
+        "glyph": "ϊ",
+        "name": "Small Iota Dialytika",
+        "rarity": "COMMON"
+    },
+    "U+03CB": {
+        "glyph": "ϋ",
+        "name": "Small Upsilon Dialytika",
+        "rarity": "COMMON"
+    },
+    "U+03CC": {
+        "glyph": "ό",
+        "name": "Small Omicron Tonos",
+        "rarity": "COMMON"
+    },
+    "U+03CD": {
+        "glyph": "ύ",
+        "name": "Small Upsilon Tonos",
+        "rarity": "COMMON"
+    },
+    "U+03CE": {
+        "glyph": "ώ",
+        "name": "Small Omega Tonos",
+        "rarity": "COMMON"
+    },
+    "U+03CF": {
+        "glyph": "Ϗ",
+        "name": "Capital Kai Symbol",
+        "rarity": "RARE"
+    },
+    "U+03D0": {
+        "glyph": "ϐ",
+        "name": "Beta Symbol",
+        "rarity": "RARE"
+    },
+    "U+03D1": {
+        "glyph": "ϑ",
+        "name": "Theta Symbol",
+        "rarity": "RARE"
+    },
+    "U+03D2": {
+        "glyph": "ϒ",
+        "name": "Upsilon Hook Symbol",
+        "rarity": "RARE"
+    },
+    "U+03D3": {
+        "glyph": "ϓ",
+        "name": "Upsilon Acute Hook Symbol",
+        "rarity": "RARE"
+    },
+    "U+03D4": {
+        "glyph": "ϔ",
+        "name": "Upsilon Diaeresis Hook Symbol",
+        "rarity": "RARE"
+    },
+    "U+03D5": {
+        "glyph": "ϕ",
+        "name": "Phi Symbol",
+        "rarity": "RARE"
+    },
+    "U+03D6": {
+        "glyph": "ϖ",
+        "name": "Pi Symbol",
+        "rarity": "RARE"
+    },
+    "U+03D7": {
+        "glyph": "ϗ",
+        "name": "Kai Symbol",
+        "rarity": "RARE"
+    },
+    "U+03D8": {
+        "glyph": "Ϙ",
+        "name": "Archaic Capital Koppa",
+        "rarity": "RARE"
+    },
+    "U+03D9": {
+        "glyph": "ϙ",
+        "name": "Archaic Small Koppa",
+        "rarity": "RARE"
+    },
+    "U+03DA": {
+        "glyph": "Ϛ",
+        "name": "Capital Stigma",
+        "rarity": "RARE"
+    },
+    "U+03DB": {
+        "glyph": "ϛ",
+        "name": "Small Stigma",
+        "rarity": "RARE"
+    },
+    "U+03DC": {
+        "glyph": "Ϝ",
+        "name": "Capital Digamma",
+        "rarity": "RARE"
+    },
+    "U+03DD": {
+        "glyph": "ϝ",
+        "name": "Small Digamma",
+        "rarity": "RARE"
+    },
+    "U+03DE": {
+        "glyph": "Ϟ",
+        "name": "Capital Koppa",
+        "rarity": "RARE"
+    },
+    "U+03DF": {
+        "glyph": "ϟ",
+        "name": "Small Koppa",
+        "rarity": "RARE"
+    },
+    "U+03E0": {
+        "glyph": "Ϡ",
+        "name": "Capital Sampi",
+        "rarity": "RARE"
+    },
+    "U+03E1": {
+        "glyph": "ϡ",
+        "name": "Small Sampi",
+        "rarity": "RARE"
+    },
+    "U+03F0": {
+        "glyph": "ϰ",
+        "name": "Kappa Symbol",
+        "rarity": "RARE"
+    },
+    "U+03F1": {
+        "glyph": "ϱ",
+        "name": "Rho Symbol",
+        "rarity": "RARE"
+    },
+    "U+03F2": {
+        "glyph": "ϲ",
+        "name": "Lunate Sigma Symbol",
+        "rarity": "RARE"
+    },
+    "U+03F3": {
+        "glyph": "ϳ",
+        "name": "Small Yot",
+        "rarity": "RARE"
+    },
+    "U+03F4": {
+        "glyph": "ϴ",
+        "name": "Capital Theta Symbol",
+        "rarity": "RARE"
+    },
+    "U+03F5": {
+        "glyph": "ϵ",
+        "name": "Lunate Epsilon Symbol",
+        "rarity": "RARE"
+    },
+    "U+03F6": {
+        "glyph": "϶",
+        "name": "Reversed Lunate Epsilon",
+        "rarity": "RARE"
+    },
+    "U+03F7": {
+        "glyph": "Ϸ",
+        "name": "Capital Sho",
+        "rarity": "RARE"
+    },
+    "U+03F8": {
+        "glyph": "ϸ",
+        "name": "Small Sho",
+        "rarity": "RARE"
+    },
+    "U+03F9": {
+        "glyph": "Ϲ",
+        "name": "Capital Lunate Sigma",
+        "rarity": "RARE"
+    },
+    "U+03FA": {
+        "glyph": "Ϻ",
+        "name": "Capital San",
+        "rarity": "RARE"
+    },
+    "U+03FB": {
+        "glyph": "ϻ",
+        "name": "Small San",
+        "rarity": "RARE"
+    },
+    "U+03FC": {
+        "glyph": "ϼ",
+        "name": "Rho Hook Symbol",
+        "rarity": "RARE"
+    },
+    "U+03FD": {
+        "glyph": "Ͻ",
+        "name": "Capital Reversed Lunate Sigma",
+        "rarity": "RARE"
+    },
+    "U+03FE": {
+        "glyph": "Ͼ",
+        "name": "Capital Dotted Lunate Sigma",
+        "rarity": "RARE"
+    },
+    "U+03FF": {
+        "glyph": "Ͽ",
+        "name": "Capital Reversed Dotted Lunate Sigma",
+        "rarity": "MYTHIC"
+    },
+    "U+1F00": {
+        "glyph": "ἀ",
+        "name": "Small Alpha Psili",
+        "rarity": "COMMON"
+    },
+    "U+1F01": {
+        "glyph": "ἁ",
+        "name": "Small Alpha Dasia",
+        "rarity": "COMMON"
+    },
+    "U+1F08": {
+        "glyph": "Ἀ",
+        "name": "Capital Alpha Psili",
+        "rarity": "COMMON"
+    },
+    "U+1F09": {
+        "glyph": "Ἁ",
+        "name": "Capital Alpha Dasia",
+        "rarity": "COMMON"
+    },
+    "U+1F10": {
+        "glyph": "ἐ",
+        "name": "Small Epsilon Psili",
+        "rarity": "COMMON"
+    },
+    "U+1F11": {
+        "glyph": "ἑ",
+        "name": "Small Epsilon Dasia",
+        "rarity": "COMMON"
+    },
+    "U+1F18": {
+        "glyph": "Ἐ",
+        "name": "Capital Epsilon Psili",
+        "rarity": "COMMON"
+    },
+    "U+1F19": {
+        "glyph": "Ἑ",
+        "name": "Capital Epsilon Dasia",
+        "rarity": "COMMON"
+    },
+    "U+1F20": {
+        "glyph": "ἠ",
+        "name": "Small Eta Psili",
+        "rarity": "COMMON"
+    },
+    "U+1F21": {
+        "glyph": "ἡ",
+        "name": "Small Eta Dasia",
+        "rarity": "COMMON"
+    },
+    "U+1F28": {
+        "glyph": "Ἠ",
+        "name": "Capital Eta Psili",
+        "rarity": "COMMON"
+    },
+    "U+1F29": {
+        "glyph": "Ἡ",
+        "name": "Capital Eta Dasia",
+        "rarity": "COMMON"
+    },
+    "U+1F30": {
+        "glyph": "ἰ",
+        "name": "Small Iota Psili",
+        "rarity": "COMMON"
+    },
+    "U+1F31": {
+        "glyph": "ἱ",
+        "name": "Small Iota Dasia",
+        "rarity": "COMMON"
+    },
+    "U+1F38": {
+        "glyph": "Ἰ",
+        "name": "Capital Iota Psili",
+        "rarity": "COMMON"
+    },
+    "U+1F39": {
+        "glyph": "Ἱ",
+        "name": "Capital Iota Dasia",
+        "rarity": "COMMON"
+    },
+    "U+1F40": {
+        "glyph": "ὀ",
+        "name": "Small Omicron Psili",
+        "rarity": "COMMON"
+    },
+    "U+1F41": {
+        "glyph": "ὁ",
+        "name": "Small Omicron Dasia",
+        "rarity": "COMMON"
+    },
+    "U+1F48": {
+        "glyph": "Ὀ",
+        "name": "Capital Omicron Psili",
+        "rarity": "COMMON"
+    },
+    "U+1F49": {
+        "glyph": "Ὁ",
+        "name": "Capital Omicron Dasia",
+        "rarity": "COMMON"
+    },
+    "U+1F50": {
+        "glyph": "ὐ",
+        "name": "Small Upsilon Psili",
+        "rarity": "COMMON"
+    },
+    "U+1F51": {
+        "glyph": "ὑ",
+        "name": "Small Upsilon Dasia",
+        "rarity": "COMMON"
+    },
+    "U+1F59": {
+        "glyph": "Ὑ",
+        "name": "Capital Upsilon Dasia",
+        "rarity": "COMMON"
+    },
+    "U+1F60": {
+        "glyph": "ὠ",
+        "name": "Small Omega Psili",
+        "rarity": "COMMON"
+    },
+    "U+1F61": {
+        "glyph": "ὡ",
+        "name": "Small Omega Dasia",
+        "rarity": "COMMON"
+    },
+    "U+1F68": {
+        "glyph": "Ὠ",
+        "name": "Capital Omega Psili",
+        "rarity": "COMMON"
+    },
+    "U+1F69": {
+        "glyph": "Ὡ",
+        "name": "Capital Omega Dasia",
+        "rarity": "COMMON"
+    },
+    "U+1FBD": {
+        "glyph": "᾽",
+        "name": "Koronis",
+        "rarity": "EPIC"
+    },
+    "U+1FBE": {
+        "glyph": "ι",
+        "name": "Prosgegrammeni",
+        "rarity": "EPIC"
+    },
+    "U+1FBF": {
+        "glyph": "᾿",
+        "name": "Psili",
+        "rarity": "EPIC"
+    },
+    "U+1FC0": {
+        "glyph": "῀",
+        "name": "Perispomeni",
+        "rarity": "EPIC"
+    },
+    "U+1FE4": {
+        "glyph": "ῤ",
+        "name": "Small Rho Psili",
+        "rarity": "COMMON"
+    },
+    "U+1FE5": {
+        "glyph": "ῥ",
+        "name": "Small Rho Dasia",
+        "rarity": "COMMON"
+    },
+    "U+1FEC": {
+        "glyph": "Ῥ",
+        "name": "Capital Rho Dasia",
+        "rarity": "COMMON"
+    },
+    "U+1FEF": {
+        "glyph": "`",
+        "name": "Varia",
+        "rarity": "EPIC"
+    },
+    "U+1FFD": {
+        "glyph": "´",
+        "name": "Oxia",
+        "rarity": "EPIC"
+    },
+    "U+1FFE": {
+        "glyph": "῾",
+        "name": "Dasia",
+        "rarity": "EPIC"
+    },
+    "U+0400": {
+        "glyph": "Ѐ",
+        "name": "Capital Ie Grave",
+        "rarity": "COMMON"
+    },
+    "U+0401": {
+        "glyph": "Ё",
+        "name": "Capital Io",
+        "rarity": "COMMON"
+    },
+    "U+0402": {
+        "glyph": "Ђ",
+        "name": "Capital Dje",
+        "rarity": "COMMON"
+    },
+    "U+0403": {
+        "glyph": "Ѓ",
+        "name": "Capital Gje",
+        "rarity": "COMMON"
+    },
+    "U+0404": {
+        "glyph": "Є",
+        "name": "Capital Ukrainian Ie",
+        "rarity": "COMMON"
+    },
+    "U+0405": {
+        "glyph": "Ѕ",
+        "name": "Capital Dze",
+        "rarity": "COMMON"
+    },
+    "U+0406": {
+        "glyph": "І",
+        "name": "Capital Byelorussian-Ukrainian I",
+        "rarity": "RARE"
+    },
+    "U+0407": {
+        "glyph": "Ї",
+        "name": "Capital Yi",
+        "rarity": "COMMON"
+    },
+    "U+0408": {
+        "glyph": "Ј",
+        "name": "Capital Je",
+        "rarity": "COMMON"
+    },
+    "U+0409": {
+        "glyph": "Љ",
+        "name": "Capital Lje",
+        "rarity": "COMMON"
+    },
+    "U+040A": {
+        "glyph": "Њ",
+        "name": "Capital Nje",
+        "rarity": "COMMON"
+    },
+    "U+040B": {
+        "glyph": "Ћ",
+        "name": "Capital Tshe",
+        "rarity": "COMMON"
+    },
+    "U+040C": {
+        "glyph": "Ќ",
+        "name": "Capital Kje",
+        "rarity": "COMMON"
+    },
+    "U+040D": {
+        "glyph": "Ѝ",
+        "name": "Capital I Grave",
+        "rarity": "COMMON"
+    },
+    "U+040E": {
+        "glyph": "Ў",
+        "name": "Capital Short U",
+        "rarity": "COMMON"
+    },
+    "U+040F": {
+        "glyph": "Џ",
+        "name": "Capital Dzhe",
+        "rarity": "COMMON"
+    },
+    "U+0410": {
+        "glyph": "А",
+        "name": "Capital A",
+        "rarity": "COMMON"
+    },
+    "U+0411": {
+        "glyph": "Б",
+        "name": "Capital Be",
+        "rarity": "COMMON"
+    },
+    "U+0412": {
+        "glyph": "В",
+        "name": "Capital Ve",
+        "rarity": "COMMON"
+    },
+    "U+0413": {
+        "glyph": "Г",
+        "name": "Capital Ghe",
+        "rarity": "COMMON"
+    },
+    "U+0414": {
+        "glyph": "Д",
+        "name": "Capital De",
+        "rarity": "COMMON"
+    },
+    "U+0415": {
+        "glyph": "Е",
+        "name": "Capital Ie",
+        "rarity": "COMMON"
+    },
+    "U+0416": {
+        "glyph": "Ж",
+        "name": "Capital Zhe",
+        "rarity": "COMMON"
+    },
+    "U+0417": {
+        "glyph": "З",
+        "name": "Capital Ze",
+        "rarity": "COMMON"
+    },
+    "U+0418": {
+        "glyph": "И",
+        "name": "Capital I",
+        "rarity": "COMMON"
+    },
+    "U+0419": {
+        "glyph": "Й",
+        "name": "Capital Short I",
+        "rarity": "COMMON"
+    },
+    "U+041A": {
+        "glyph": "К",
+        "name": "Capital Ka",
+        "rarity": "COMMON"
+    },
+    "U+041B": {
+        "glyph": "Л",
+        "name": "Capital El",
+        "rarity": "COMMON"
+    },
+    "U+041C": {
+        "glyph": "М",
+        "name": "Capital Em",
+        "rarity": "COMMON"
+    },
+    "U+041D": {
+        "glyph": "Н",
+        "name": "Capital En",
+        "rarity": "COMMON"
+    },
+    "U+041E": {
+        "glyph": "О",
+        "name": "Capital O",
+        "rarity": "COMMON"
+    },
+    "U+041F": {
+        "glyph": "П",
+        "name": "Capital Pe",
+        "rarity": "COMMON"
+    },
+    "U+0420": {
+        "glyph": "Р",
+        "name": "Capital Er",
+        "rarity": "COMMON"
+    },
+    "U+0421": {
+        "glyph": "С",
+        "name": "Capital Es",
+        "rarity": "COMMON"
+    },
+    "U+0422": {
+        "glyph": "Т",
+        "name": "Capital Te",
+        "rarity": "COMMON"
+    },
+    "U+0423": {
+        "glyph": "У",
+        "name": "Capital U",
+        "rarity": "COMMON"
+    },
+    "U+0424": {
+        "glyph": "Ф",
+        "name": "Capital Ef",
+        "rarity": "COMMON"
+    },
+    "U+0425": {
+        "glyph": "Х",
+        "name": "Capital Ha",
+        "rarity": "COMMON"
+    },
+    "U+0426": {
+        "glyph": "Ц",
+        "name": "Capital Tse",
+        "rarity": "COMMON"
+    },
+    "U+0427": {
+        "glyph": "Ч",
+        "name": "Capital Che",
+        "rarity": "COMMON"
+    },
+    "U+0428": {
+        "glyph": "Ш",
+        "name": "Capital Sha",
+        "rarity": "COMMON"
+    },
+    "U+0429": {
+        "glyph": "Щ",
+        "name": "Capital Shcha",
+        "rarity": "COMMON"
+    },
+    "U+042A": {
+        "glyph": "Ъ",
+        "name": "Capital Hard Sign",
+        "rarity": "COMMON"
+    },
+    "U+042B": {
+        "glyph": "Ы",
+        "name": "Capital Yeru",
+        "rarity": "COMMON"
+    },
+    "U+042C": {
+        "glyph": "Ь",
+        "name": "Capital Soft Sign",
+        "rarity": "COMMON"
+    },
+    "U+042D": {
+        "glyph": "Э",
+        "name": "Capital E",
+        "rarity": "COMMON"
+    },
+    "U+042E": {
+        "glyph": "Ю",
+        "name": "Capital Yu",
+        "rarity": "COMMON"
+    },
+    "U+042F": {
+        "glyph": "Я",
+        "name": "Capital Ya",
+        "rarity": "COMMON"
+    },
+    "U+0430": {
+        "glyph": "а",
+        "name": "Small A",
+        "rarity": "COMMON"
+    },
+    "U+0431": {
+        "glyph": "б",
+        "name": "Small Be",
+        "rarity": "COMMON"
+    },
+    "U+0432": {
+        "glyph": "в",
+        "name": "Small Ve",
+        "rarity": "COMMON"
+    },
+    "U+0433": {
+        "glyph": "г",
+        "name": "Small Ghe",
+        "rarity": "COMMON"
+    },
+    "U+0434": {
+        "glyph": "д",
+        "name": "Small De",
+        "rarity": "COMMON"
+    },
+    "U+0435": {
+        "glyph": "е",
+        "name": "Small Ie",
+        "rarity": "COMMON"
+    },
+    "U+0436": {
+        "glyph": "ж",
+        "name": "Small Zhe",
+        "rarity": "COMMON"
+    },
+    "U+0437": {
+        "glyph": "з",
+        "name": "Small Ze",
+        "rarity": "COMMON"
+    },
+    "U+0438": {
+        "glyph": "и",
+        "name": "Small I",
+        "rarity": "COMMON"
+    },
+    "U+0439": {
+        "glyph": "й",
+        "name": "Small Short I",
+        "rarity": "COMMON"
+    },
+    "U+043A": {
+        "glyph": "к",
+        "name": "Small Ka",
+        "rarity": "COMMON"
+    },
+    "U+043B": {
+        "glyph": "л",
+        "name": "Small El",
+        "rarity": "COMMON"
+    },
+    "U+043C": {
+        "glyph": "м",
+        "name": "Small Em",
+        "rarity": "COMMON"
+    },
+    "U+043D": {
+        "glyph": "н",
+        "name": "Small En",
+        "rarity": "COMMON"
+    },
+    "U+043E": {
+        "glyph": "о",
+        "name": "Small O",
+        "rarity": "COMMON"
+    },
+    "U+043F": {
+        "glyph": "п",
+        "name": "Small Pe",
+        "rarity": "COMMON"
+    },
+    "U+0440": {
+        "glyph": "р",
+        "name": "Small Er",
+        "rarity": "COMMON"
+    },
+    "U+0441": {
+        "glyph": "с",
+        "name": "Small Es",
+        "rarity": "COMMON"
+    },
+    "U+0442": {
+        "glyph": "т",
+        "name": "Small Te",
+        "rarity": "COMMON"
+    },
+    "U+0443": {
+        "glyph": "у",
+        "name": "Small U",
+        "rarity": "COMMON"
+    },
+    "U+0444": {
+        "glyph": "ф",
+        "name": "Small Ef",
+        "rarity": "COMMON"
+    },
+    "U+0445": {
+        "glyph": "х",
+        "name": "Small Ha",
+        "rarity": "COMMON"
+    },
+    "U+0446": {
+        "glyph": "ц",
+        "name": "Small Tse",
+        "rarity": "COMMON"
+    },
+    "U+0447": {
+        "glyph": "ч",
+        "name": "Small Che",
+        "rarity": "COMMON"
+    },
+    "U+0448": {
+        "glyph": "ш",
+        "name": "Small Sha",
+        "rarity": "COMMON"
+    },
+    "U+0449": {
+        "glyph": "щ",
+        "name": "Small Shcha",
+        "rarity": "COMMON"
+    },
+    "U+044A": {
+        "glyph": "ъ",
+        "name": "Small Hard Sign",
+        "rarity": "COMMON"
+    },
+    "U+044B": {
+        "glyph": "ы",
+        "name": "Small Yeru",
+        "rarity": "COMMON"
+    },
+    "U+044C": {
+        "glyph": "ь",
+        "name": "Small Soft Sign",
+        "rarity": "COMMON"
+    },
+    "U+044D": {
+        "glyph": "э",
+        "name": "Small E",
+        "rarity": "COMMON"
+    },
+    "U+044E": {
+        "glyph": "ю",
+        "name": "Small Yu",
+        "rarity": "COMMON"
+    },
+    "U+044F": {
+        "glyph": "я",
+        "name": "Small Ya",
+        "rarity": "COMMON"
+    },
+    "U+0450": {
+        "glyph": "ѐ",
+        "name": "Small Ie Grave",
+        "rarity": "COMMON"
+    },
+    "U+0451": {
+        "glyph": "ё",
+        "name": "Small Io",
+        "rarity": "COMMON"
+    },
+    "U+0452": {
+        "glyph": "ђ",
+        "name": "Small Dje",
+        "rarity": "COMMON"
+    },
+    "U+0453": {
+        "glyph": "ѓ",
+        "name": "Small Gje",
+        "rarity": "COMMON"
+    },
+    "U+0454": {
+        "glyph": "є",
+        "name": "Small Ukrainian Ie",
+        "rarity": "COMMON"
+    },
+    "U+0455": {
+        "glyph": "ѕ",
+        "name": "Small Dze",
+        "rarity": "COMMON"
+    },
+    "U+0456": {
+        "glyph": "і",
+        "name": "Small Byelorussian-Ukrainian I",
+        "rarity": "RARE"
+    },
+    "U+0457": {
+        "glyph": "ї",
+        "name": "Small Yi",
+        "rarity": "COMMON"
+    },
+    "U+0458": {
+        "glyph": "ј",
+        "name": "Small Je",
+        "rarity": "COMMON"
+    },
+    "U+0459": {
+        "glyph": "љ",
+        "name": "Small Lje",
+        "rarity": "COMMON"
+    },
+    "U+045A": {
+        "glyph": "њ",
+        "name": "Small Nje",
+        "rarity": "COMMON"
+    },
+    "U+045B": {
+        "glyph": "ћ",
+        "name": "Small Tshe",
+        "rarity": "COMMON"
+    },
+    "U+045C": {
+        "glyph": "ќ",
+        "name": "Small Kje",
+        "rarity": "COMMON"
+    },
+    "U+045D": {
+        "glyph": "ѝ",
+        "name": "Small I Grave",
+        "rarity": "COMMON"
+    },
+    "U+045E": {
+        "glyph": "ў",
+        "name": "Small Short U",
+        "rarity": "COMMON"
+    },
+    "U+045F": {
+        "glyph": "џ",
+        "name": "Small Dzhe",
+        "rarity": "COMMON"
+    },
+    "U+0462": {
+        "glyph": "Ѣ",
+        "name": "Capital Yat",
+        "rarity": "RARE"
+    },
+    "U+0463": {
+        "glyph": "ѣ",
+        "name": "Small Yat",
+        "rarity": "RARE"
+    },
+    "U+0466": {
+        "glyph": "Ѧ",
+        "name": "Capital Little Yus",
+        "rarity": "RARE"
+    },
+    "U+0467": {
+        "glyph": "ѧ",
+        "name": "Small Little Yus",
+        "rarity": "RARE"
+    },
+    "U+046A": {
+        "glyph": "Ѫ",
+        "name": "Capital Big Yus",
+        "rarity": "MYTHIC"
+    },
+    "U+046B": {
+        "glyph": "ѫ",
+        "name": "Small Big Yus",
+        "rarity": "MYTHIC"
+    },
+    "U+046E": {
+        "glyph": "Ѯ",
+        "name": "Capital Ksi",
+        "rarity": "EPIC"
+    },
+    "U+046F": {
+        "glyph": "ѯ",
+        "name": "Small Ksi",
+        "rarity": "EPIC"
+    },
+    "U+0472": {
+        "glyph": "Ѳ",
+        "name": "Capital Fita",
+        "rarity": "RARE"
+    },
+    "U+0473": {
+        "glyph": "ѳ",
+        "name": "Small Fita",
+        "rarity": "RARE"
+    },
+    "U+0474": {
+        "glyph": "Ѵ",
+        "name": "Capital Izhitsa",
+        "rarity": "RARE"
+    },
+    "U+0475": {
+        "glyph": "ѵ",
+        "name": "Small Izhitsa",
+        "rarity": "RARE"
+    },
+    "U+0476": {
+        "glyph": "Ѷ",
+        "name": "Capital Izhitsa Double Grave Accent",
+        "rarity": "RARE"
+    },
+    "U+0477": {
+        "glyph": "ѷ",
+        "name": "Small Izhitsa Double Grave Accent",
+        "rarity": "RARE"
+    },
+    "U+0478": {
+        "glyph": "Ѹ",
+        "name": "Capital Uk",
+        "rarity": "MYTHIC"
+    },
+    "U+0479": {
+        "glyph": "ѹ",
+        "name": "Small Uk",
+        "rarity": "MYTHIC"
+    },
+    "U+047A": {
+        "glyph": "Ѻ",
+        "name": "Capital Round Omega",
+        "rarity": "MYTHIC"
+    },
+    "U+047B": {
+        "glyph": "ѻ",
+        "name": "Small Round Omega",
+        "rarity": "MYTHIC"
+    },
+    "U+047C": {
+        "glyph": "Ѽ",
+        "name": "Capital Omega Titlo",
+        "rarity": "MYTHIC"
+    },
+    "U+047D": {
+        "glyph": "ѽ",
+        "name": "Small Omega Titlo",
+        "rarity": "MYTHIC"
+    },
+    "U+047E": {
+        "glyph": "Ѿ",
+        "name": "Capital Ot",
+        "rarity": "RARE"
+    },
+    "U+047F": {
+        "glyph": "ѿ",
+        "name": "Small Ot",
+        "rarity": "RARE"
+    },
+    "U+0482": {
+        "glyph": "҂",
+        "name": "Thousands Sign",
+        "rarity": "EPIC"
+    },
+    "U+0483": {
+        "glyph": "҃",
+        "name": "Combining Titlo",
+        "rarity": "EPIC"
+    },
+    "U+0484": {
+        "glyph": "҄",
+        "name": "Combining Palatalization",
+        "rarity": "EPIC"
+    },
+    "U+0485": {
+        "glyph": "҅",
+        "name": "Combining Dasia Pneumata",
+        "rarity": "EPIC"
+    },
+    "U+0486": {
+        "glyph": "҆",
+        "name": "Combining Psili Pneumata",
+        "rarity": "EPIC"
+    },
+    "U+0487": {
+        "glyph": "҇",
+        "name": "Combining Pokrytie",
+        "rarity": "EPIC"
+    },
+    "U+0488": {
+        "glyph": "҈",
+        "name": "Combining Hundred Thousands Sign",
+        "rarity": "MYTHIC"
+    },
+    "U+0489": {
+        "glyph": "҉",
+        "name": "Combining Millions Sign",
+        "rarity": "MYTHIC"
+    },
+    "U+048C": {
+        "glyph": "Ҍ",
+        "name": "Capital Semisoft Sign",
+        "rarity": "RARE"
+    },
+    "U+048D": {
+        "glyph": "ҍ",
+        "name": "Small Semisoft Sign",
+        "rarity": "RARE"
+    },
+    "U+048E": {
+        "glyph": "Ҏ",
+        "name": "Capital Er Tick",
+        "rarity": "COMMON"
+    },
+    "U+048F": {
+        "glyph": "ҏ",
+        "name": "Small Er Tick",
+        "rarity": "COMMON"
+    },
+    "U+0490": {
+        "glyph": "Ґ",
+        "name": "Capital Ghe Upturn",
+        "rarity": "COMMON"
+    },
+    "U+0491": {
+        "glyph": "ґ",
+        "name": "Small Ghe Upturn",
+        "rarity": "COMMON"
+    },
+    "U+04A0": {
+        "glyph": "Ҡ",
+        "name": "Capital Bashkir Ka",
+        "rarity": "COMMON"
+    },
+    "U+04A1": {
+        "glyph": "ҡ",
+        "name": "Small Bashkir Ka",
+        "rarity": "COMMON"
+    },
+    "U+04A4": {
+        "glyph": "Ҥ",
+        "name": "Capital Ligature En Ghe",
+        "rarity": "RARE"
+    },
+    "U+04A5": {
+        "glyph": "ҥ",
+        "name": "Small Ligature En Ghe",
+        "rarity": "RARE"
+    },
+    "U+04A8": {
+        "glyph": "Ҩ",
+        "name": "Capital Abkhasian Ha",
+        "rarity": "COMMON"
+    },
+    "U+04A9": {
+        "glyph": "ҩ",
+        "name": "Small Abkhasian Ha",
+        "rarity": "COMMON"
+    },
+    "U+04AE": {
+        "glyph": "Ү",
+        "name": "Capital Straight U",
+        "rarity": "COMMON"
+    },
+    "U+04AF": {
+        "glyph": "ү",
+        "name": "Small Straight U",
+        "rarity": "COMMON"
+    },
+    "U+04B4": {
+        "glyph": "Ҵ",
+        "name": "Capital Ligature Te Tse",
+        "rarity": "RARE"
+    },
+    "U+04B5": {
+        "glyph": "ҵ",
+        "name": "Small Ligature Te Tse",
+        "rarity": "RARE"
+    },
+    "U+04BA": {
+        "glyph": "Һ",
+        "name": "Capital Shha",
+        "rarity": "COMMON"
+    },
+    "U+04BB": {
+        "glyph": "һ",
+        "name": "Small Shha",
+        "rarity": "COMMON"
+    },
+    "U+04BC": {
+        "glyph": "Ҽ",
+        "name": "Capital Abkhasian Che",
+        "rarity": "COMMON"
+    },
+    "U+04BD": {
+        "glyph": "ҽ",
+        "name": "Small Abkhasian Che",
+        "rarity": "COMMON"
+    },
+    "U+04C0": {
+        "glyph": "Ӏ",
+        "name": "Palochka",
+        "rarity": "COMMON"
+    },
+    "U+04C1": {
+        "glyph": "Ӂ",
+        "name": "Capital Zhe Breve",
+        "rarity": "COMMON"
+    },
+    "U+04C2": {
+        "glyph": "ӂ",
+        "name": "Small Zhe Breve",
+        "rarity": "COMMON"
+    },
+    "U+04CB": {
+        "glyph": "Ӌ",
+        "name": "Capital Khakassian Che",
+        "rarity": "COMMON"
+    },
+    "U+04CC": {
+        "glyph": "ӌ",
+        "name": "Small Khakassian Che",
+        "rarity": "COMMON"
+    },
+    "U+04CF": {
+        "glyph": "ӏ",
+        "name": "Small Palochka",
+        "rarity": "COMMON"
+    },
+    "U+04D0": {
+        "glyph": "Ӑ",
+        "name": "Capital A Breve",
+        "rarity": "COMMON"
+    },
+    "U+04D1": {
+        "glyph": "ӑ",
+        "name": "Small A Breve",
+        "rarity": "COMMON"
+    },
+    "U+04D6": {
+        "glyph": "Ӗ",
+        "name": "Capital Ie Breve",
+        "rarity": "COMMON"
+    },
+    "U+04D7": {
+        "glyph": "ӗ",
+        "name": "Small Ie Breve",
+        "rarity": "COMMON"
+    },
+    "U+04D8": {
+        "glyph": "Ә",
+        "name": "Capital Schwa",
+        "rarity": "COMMON"
+    },
+    "U+04D9": {
+        "glyph": "ә",
+        "name": "Small Schwa",
+        "rarity": "COMMON"
+    },
+    "U+04E0": {
+        "glyph": "Ӡ",
+        "name": "Capital Abkhasian Dze",
+        "rarity": "COMMON"
+    },
+    "U+04E1": {
+        "glyph": "ӡ",
+        "name": "Small Abkhasian Dze",
+        "rarity": "COMMON"
+    },
+    "U+04E8": {
+        "glyph": "Ө",
+        "name": "Capital Barred O",
+        "rarity": "COMMON"
+    },
+    "U+04E9": {
+        "glyph": "ө",
+        "name": "Small Barred O",
+        "rarity": "COMMON"
+    },
+    "U+04F2": {
+        "glyph": "Ӳ",
+        "name": "Capital U Double Acute",
+        "rarity": "COMMON"
+    },
+    "U+04F3": {
+        "glyph": "ӳ",
+        "name": "Small U Double Acute",
+        "rarity": "COMMON"
+    }
+}

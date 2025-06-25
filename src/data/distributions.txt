@@ -1,0 +1,15 @@
+===== Greek Cyrillic =====
+Total characters: 321.0
+Common: 227 = 70.7%
+Rare: 60 = 18.6%
+Epic: 21 = 6.5%
+Mythic: 11 = 3.4%
+Legendary: 2 = 0.6%
+
+===== Latin =====
+Total characters: 317.0
+Common: 223 = 70.3%
+Rare: 62 = 19.5%
+Epic: 19 = 5.9%
+Mythic: 11 = 3.4%
+Legendary: 2 = 0.6%
